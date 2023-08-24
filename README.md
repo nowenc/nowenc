@@ -1,7 +1,7 @@
 <!-- BLOG-POST-LIST:START -->
 
 <div id="header" align="center">
-  <img src="https://github.com/nowenc/nowenc/blob/main/banner.png" width="900"/>
+  <img src="https://github.com/nowenc/nowenc/blob/main/banner.png" width="700"/>
 </div>
 
 ### 🧑‍💻 Обо мне ↓

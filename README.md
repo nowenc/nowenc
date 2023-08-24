@@ -1,5 +1,9 @@
 <!-- BLOG-POST-LIST:START -->
 
+<div id="header" align="center">
+  <img src="https://panels.twitch.tv/panel-672252349-image-4c0b6e5c-3c3e-450e-b723-c8c4bc0568e3" width="100"/>
+</div>
+
 ### 🧑‍💻 Обо мне ↓
 
 Будущий системный администратор

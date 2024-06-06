@@ -1,9 +1,5 @@
 <!-- BLOG-POST-LIST:START -->
 
-<div id="header" align="center">
-  <img src="https://github.com/nowenc/nowenc/blob/main/banner.png" width="900"/>
-</div>
-
 ### 🧑‍💻 Обо мне ↓
 
 Будущий системный администратор
